@@ -1,4 +1,5 @@
 **Customer Churn Prediction – End-to-End Machine Learning Project**
+
 **📌 Project Overview**
 
 Customer churn is one of the most critical challenges for subscription-based businesses, directly impacting revenue, growth, and customer lifetime value.
